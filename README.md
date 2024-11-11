@@ -1,4 +1,4 @@
-# OmaRepo
+# OmaProjekti
 
 Tämä on minun testirepo
 
